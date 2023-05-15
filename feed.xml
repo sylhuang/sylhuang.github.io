@@ -3,8 +3,8 @@
   <channel>
     <title>Sylvia Huang</title>
     <description>Personal website of Sylvia</description>
-    <link>http://sylhuang.github.io/sylhuang.github.io/</link>
-    <atom:link href="http://sylhuang.github.io/sylhuang.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://sylhuang.github.io/</link>
+    <atom:link href="http://sylhuang.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Mon, 23 Jan 2017 15:07:41 -0500</pubDate>
     <lastBuildDate>Mon, 23 Jan 2017 15:07:41 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;I was talking to my old friends about their side projects the other day, and one of them said that&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Jan 2017 00:00:00 -0500</pubDate>
-        <link>http://sylhuang.github.io/sylhuang.github.io/blog/2017/how-to-generate-a-maze/</link>
-        <guid isPermaLink="true">http://sylhuang.github.io/sylhuang.github.io/blog/2017/how-to-generate-a-maze/</guid>
+        <link>http://sylhuang.github.io/blog/2017/how-to-generate-a-maze/</link>
+        <guid isPermaLink="true">http://sylhuang.github.io/blog/2017/how-to-generate-a-maze/</guid>
         
         
       </item>
